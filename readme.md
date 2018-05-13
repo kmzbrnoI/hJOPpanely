@@ -8,3 +8,7 @@ Panely lze editovat v [hJOPeditoru](https://github.com/kmzbrnoI/hJOPeditor).
 ## Konvence
 
  * Tento repozitář je v češtině, včetně zpráv commitů.
+
+## Autoři
+
+ * Jan Horáček ([jan.horacek@kmz-brno.cz](mailto:jan.horacek@kmz-brno.cz))
