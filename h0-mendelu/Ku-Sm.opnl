@@ -706,49 +706,49 @@ Y=10
 C=1
 
 [TP19]
-T=1S
+T=S1
 X=84
 Y=8
 C=1
 
 [TP20]
-T=2S
+T=S2
 X=85
 Y=10
 C=1
 
 [TP21]
-T=1S
+T=S1
 X=17
 Y=8
 C=1
 
 [TP22]
-T=1L
+T=L1
 X=47
 Y=10
 C=1
 
 [TP23]
-T=2L
+T=L2
 X=47
 Y=12
 C=1
 
 [TP24]
-T=4L
+T=L4
 X=47
 Y=14
 C=1
 
 [TP25]
-T=2S
+T=S2
 X=28
 Y=10
 C=1
 
 [TP26]
-T=4S
+T=S4
 X=28
 Y=12
 C=1
